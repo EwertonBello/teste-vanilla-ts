@@ -10,7 +10,7 @@ Boilerplate TypeScript vanilla com webpack e ts-loader<br/>
     ```
     git clone https://github.com/EwertonBello/teste-vanilla-ts.git nome-desejado-do-seu-projeto
     ```
-2. Depois de criado seu projeto faça:
+2. Depois de criado seu projeto, dentro dele faça:
     ```
     yarn install ou npm install
     ```

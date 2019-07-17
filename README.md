@@ -11,11 +11,11 @@ Boilerplate TypeScript vanilla com webpack e ts-loader<br/>
     git clone https://github.com/EwertonBello/teste-vanilla-ts.git nome-desejado-do-seu-projeto
     ```
     <h6>Obs: altere o name no package.json se preferir.</h6>
-2. Depois de criado seu projeto, dentro dele para executar faça:<br/>
+2. Depois de criado seu projeto, dentro dele, para executar faça:<br/>
     ```
     yarn install ou npm install
     
-    yarn start ou npm start
-    
     yarn build ou npm run build
+    
+    yarn start ou npm start
     ```
